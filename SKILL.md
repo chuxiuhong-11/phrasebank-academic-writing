@@ -1,6 +1,6 @@
 ---
 name: phrasebank-academic-writing
-description: Use when drafting, revising, or polishing English academic writing (research papers, dissertations, theses, essays, reports) and ready-made academic phrases are needed. Triggers include requests to write or improve introductions, literature reviews, methods, results, discussions, conclusions, definitions, classifications, comparisons, descriptions of trends or quantities, causal explanations, examples, transitions, past-tense narration, hedging/cautious language, or critical comments; also when the writer is a non-native English speaker or asks for "academic phrases", "academic English", "Phrasebank", or sentence-level academic templates.
+description: Use when drafting, revising, or polishing English academic writing (research papers, dissertations, theses, essays, reports) and ready-made academic phrases are needed. Triggers include requests to write or improve introductions, literature reviews, methods, results, discussions, conclusions, definitions, classifications, comparisons, descriptions of trends or quantities, causal explanations, examples, transitions, past-tense narration, hedging/cautious language, or critical comments; also when the writer is a non-native English speaker or asks for "academic phrases", "academic English", "Phrasebank", or sentence-level academic templates. 中文触发词：学术写作、学术英语、学术短语、论文写作、论文润色、论文修改、英文论文、论文引言、文献综述、研究方法、研究结果、结果讨论、研究结论、英文句型、学术表达、英文学术表达、Phrasebank、曼彻斯特短语库；适用于需要地道英文学术句型、中英文学术写作辅助或润色的请求。
 ---
 
 # Academic Phrasebank (Manchester)
@@ -17,6 +17,7 @@ The phrases are generic templates, not copyrighted prose: replace the placeholde
 - User needs hedged/cautious wording, critical commentary, definitions, classifications, comparisons, trend/quantity descriptions, causal claims, examples, transitions, or past-tense narration.
 - User is a non-native English speaker and needs natural, register-appropriate academic phrasing.
 - User explicitly mentions Phrasebank, academic phrases, or sentence templates.
+- User writes in Chinese and asks for academic English help (e.g., 写论文引言、润色 Discussion、找学术短语、翻译成学术英语) - trigger even without English keywords.
 
 Do not use for generating experimental data, statistics, or non-academic writing.
 
