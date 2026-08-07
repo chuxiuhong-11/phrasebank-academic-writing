@@ -1,0 +1,4 @@
+interface:
+  display_name: "Academic Phrasebank"
+  short_description: "Ready-made academic English phrases for each paper section."
+  default_prompt: "Use $phrasebank-academic-writing to draft academic English phrases for the introduction of my paper."
